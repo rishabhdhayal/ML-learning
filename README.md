@@ -11,3 +11,6 @@ A repository for the machine learning topic that i have learned
     - Classification
     - Regression
     - Clustering
+    
+### Models in ML 
+
