@@ -13,4 +13,5 @@ A repository for the machine learning topic that i have learned
     - Clustering
     
 ### Models in ML 
-
+ -KNN
+ -linear regression
