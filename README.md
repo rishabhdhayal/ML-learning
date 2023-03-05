@@ -15,3 +15,4 @@ A repository for the machine learning topic that i have learned
 ### Models in ML 
  -KNN
  -linear regression
+ -decision tree
